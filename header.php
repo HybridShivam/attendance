@@ -18,9 +18,9 @@ if(!isset($_SESSION["teacher_id"]))
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#343a40">
-  <link href="css/style.css" rel="stylesheet">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="css/style.css" >
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
@@ -34,7 +34,7 @@ if(!isset($_SESSION["teacher_id"]))
 </head>
 <body>
 
-<!-- <div class="jumbotron-small text-center" style="margin-bottom:0">
+<!-- <div class="jumbotron-small text-center mb-0">
   <h1 class="alleynFont my-4">Student Attendance System</h1>
 </div> -->
 

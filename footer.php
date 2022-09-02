@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar navbar-expand-sm bg-dark navbar-dark  fixed-bottom coolShadow">
   <div class="mx-auto">
     <!-- Button trigger modal -->
-    <button type="button" class="btn btn-outline btn-dark btn-sm btn-primary" data-toggle="modal" data-target="#creditsModal">© Copyright 2020
+    <button type="button" class="btn btn-outline btn-dark btn-sm btn-primary" data-toggle="modal" data-target="#creditsModal">About
     </button>
   </div>
 </nav>
@@ -19,7 +19,7 @@
       <div class="modal-body">
       This mini-project was part of the university curriculum: <br>
         Shivam Baghel : 181510031<br>
-        @ GLA University, Mathura
+        2020 @ GLA University, Mathura
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
